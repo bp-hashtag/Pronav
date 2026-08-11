@@ -1,0 +1,3 @@
+numpy>=1.21.0
+matplotlib>=3.5.0
+websocket-client>=1.0.0  # For Option A (network feed)
